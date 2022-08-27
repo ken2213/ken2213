@@ -1,11 +1,16 @@
 ### Hi there 👋 I'm Kenneth
 
 I'm a <b>Passionate Self-taught Front-end Developer</b>
+<br>
+<a href="https://www.linkedin.com/in/kenneth-ornieta">
+    <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<br>
+
+### 
 
 
 
-
-**ken2213/ken2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
