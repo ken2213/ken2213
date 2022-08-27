@@ -5,11 +5,8 @@ I'm a <b>Passionate Self-taught Front-end Developer</b>
 <a href="https://www.linkedin.com/in/kenneth-ornieta">
     <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
+
 <br>
-
-### 
-
-
 
 
 Here are some ideas to get you started:
@@ -22,4 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### Programming Languages and Tools
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+
+
 
