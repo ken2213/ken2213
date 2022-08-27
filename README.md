@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=aesthetic-calculator)](https://github.com/ken2213/aesthetic-calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=etch-a-sketch)](https://github.com/ken2213/etch-a-sketch)
 
-
+### wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken2213)](https://github.com/ken2213/github-readme-stats)
 
 
