@@ -27,6 +27,7 @@
 ### Learning Resources
 <img height=70 src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png"/><img height=90 src="https://d33wubrfki0l68.cloudfront.net/b92ab3b21cc2504828d87929ebe023811b50021b/bb1ef/img/misuse-3.png"/><br>
 <img height=70 src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"/>
+
 <img height=40 src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/><br>    
 
 <img height=40 src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
