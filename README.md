@@ -5,13 +5,18 @@
 
 
 
-<div align=center>  
+<div align="center">  
     
 ### About
     
 <div align="center">
-    I'm a <b>Passionate Self-taught Front-end Developer</b> who humbly and will always       consider himself a Lifelong Learner.
+    I'm a <b>Passionate Self-taught Front-end Developer</b> who humbly and will always consider himself a Lifelong Learner.
 </div>
+<br>
+<div align="left">
+    <img height=20 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif">Currently learning Front-End Development</img>
+</div>
+
 <br>
 <br>
 
