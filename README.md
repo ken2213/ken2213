@@ -14,7 +14,8 @@
 </div>
 <br>
 <div align="left">
-    <img height=20 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif">Currently learning Front-End Development</img>
+    <img height=20 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif"> --- Currently learning <b>Front-End Development</b></img><br>
+    <img height=30 src="https://monophy.com/media/eGxQwn7FRfqBejBW9L/monophy.gif"> -- I love cats</img>
 </div>
 
 <br>
