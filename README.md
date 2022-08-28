@@ -1,7 +1,9 @@
 # <div align="center">Hi there!, I'm Kenneth<br>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-ornieta) [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kenneth-Ornieta)</div>
 
 
-<img height=200 src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"></img>
+<img height=80 src="https://64.media.tumblr.com/tumblr_mauaez2COG1rfjowdo1_500.gif"><img height=100 src="https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif"></img><img height=100 src="http://pa1.narvii.com/6535/36cd98315fef41a8a9503509b01d38be72dad783_00.gif"></img><img height=120 src="https://gist.github.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"></img><img height="120" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif"><img height=150 src="https://www.smogon.com/forums/media/data/avatars/o/555/555073.jpg?1632946184">
+
+
 
 <div align=center>  
     
