@@ -59,7 +59,11 @@
 
 <br>
 <br>    
-    
+
+### <img height=20 src="https://pa1.narvii.com/6468/5add01d8222fe8c252fc234852599081b78f5e03_hq.gif">  </img>Mini-Projects  <img height=20 src="https://pa1.narvii.com/6468/5add01d8222fe8c252fc234852599081b78f5e03_hq.gif">  </img>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=aesthetic-calculator)](https://github.com/ken2213/aesthetic-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=etch-a-sketch)](https://github.com/ken2213/etch-a-sketch)    
     
 ### GitHub Status
 
@@ -67,9 +71,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&theme=react"/>
 <img src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&theme=react"/>
 
-### Mini-Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=aesthetic-calculator)](https://github.com/ken2213/aesthetic-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=etch-a-sketch)](https://github.com/ken2213/etch-a-sketch)
 
 
 
