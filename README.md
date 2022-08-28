@@ -1,5 +1,6 @@
 # <div align="center">Hi there!, I'm Kenneth<br>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-ornieta) [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kenneth-Ornieta)</div>
 
+
 <div align=center>  
     
 ### About
@@ -8,10 +9,13 @@
     I'm a <b>Passionate Self-taught Front-end Developer</b> who humbly and will always       consider himself a Lifelong Learner.
 </div>
 <br>
+<br>
 
 ### Programming Languages
 <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     
+<br>
+<br>
 
 
 ### Tools
@@ -22,6 +26,8 @@
 <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
+<br>
+<br>
           
     
 ### Learning Resources
@@ -36,8 +42,8 @@
 
 <img height=40 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
-    
-    
+<br>
+<br>    
     
     
 ### GitHub Status
