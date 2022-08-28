@@ -1,12 +1,15 @@
-# <div align="center">Hi there 👋 I'm Kenneth </div>
+# <div align="center">Hi there 👋 I'm Kenneth<br><br>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-ornieta)[![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kenneth-Ornieta)</div>
+
+<br>
+
+<div align=center>
+
 <div align="center">
     I'm a <b>Passionate Self-taught Front-end Developer</b> who humbly and will always       consider himself a Lifelong Learner.
 </div>
 
 <br>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-ornieta)
-[![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kenneth-Ornieta)
 
 <br>
 </a>
