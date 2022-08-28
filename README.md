@@ -15,13 +15,13 @@
 <br>
 
 <div align="left">
-    <img height=30 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif"> .... I'm currently learning <b>Front-End Development (ReactJS)</b></img><br>
-    <img height=30 src="https://monophy.com/media/eGxQwn7FRfqBejBW9L/monophy.gif"> .. I love cats</img><br>
-    <img height=30 src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"> ..... Constantly pushing myself to code as much as possible</img><br>
-    <img height=40 src="https://i.pinimg.com/originals/ae/70/2a/ae702a9a236d1baf8c46e1fa3710df7a.gif"> .. Fundamental Engineer Morning IT Examination Passer of Philippine National IT Standards</img><br>
-    <img height=30 src="https://media0.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=6c09b9527ccea3835945e7308c961fe66ea69cd8e7fc845e&rid=giphy.gif&ct=s"> ..... Eager to learn something new and improve everyday</img><br>
-    <img height=40 src="https://thumbs.gfycat.com/YellowReliableLabradorretriever-max-1mb.gif"> .. Coffee Addict</img>
-    
+    <img height=30 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif"> ....... I'm currently learning <b>Front-End Development (ReactJS)</b></img><br>
+    <img height=30 src="https://monophy.com/media/eGxQwn7FRfqBejBW9L/monophy.gif"> ..... I love cats</img><br>
+    <img height=30 src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"> ........ Constantly pushing myself to code as much as possible</img><br>
+    <img height=40 src="https://i.pinimg.com/originals/ae/70/2a/ae702a9a236d1baf8c46e1fa3710df7a.gif"> ..... Fundamental Engineer Morning IT Examination Passer of Philippine National IT Standards</img><br>
+    <img height=30 src="https://media0.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=6c09b9527ccea3835945e7308c961fe66ea69cd8e7fc845e&rid=giphy.gif&ct=s"> ........ Eager to learn something new and improve everyday</img><br>
+    <img height=40 src="https://thumbs.gfycat.com/YellowReliableLabradorretriever-max-1mb.gif"> ..... Coffee Addict</img><br>
+    <img height=30 src="https://c.tenor.com/rXxQXRXB0pkAAAAM/elmo-fire.gif"> .... I like memes</img>
 </div>
 
 
