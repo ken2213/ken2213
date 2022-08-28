@@ -22,7 +22,10 @@
     <img height=30 src="https://media0.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=6c09b9527ccea3835945e7308c961fe66ea69cd8e7fc845e&rid=giphy.gif&ct=s"> ........ Eager to learn something new and improve everyday</img><br>
     <img height=40 src="https://thumbs.gfycat.com/YellowReliableLabradorretriever-max-1mb.gif"> ..... Coffee Addict</img><br>
     <img height=30 src="https://c.tenor.com/rXxQXRXB0pkAAAAM/elmo-fire.gif"> .... I like memes</img>
+    <br>
+    <br>
 </div>
+
 
 
 <br>
@@ -74,5 +77,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&theme=react"/>
 
 
-
+### <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>  Funny Joke  <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card"/>
 
