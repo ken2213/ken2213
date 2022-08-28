@@ -77,6 +77,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&theme=react"/>
 
 
-### <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>  Funny Joke  <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>
+### <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>  Some Joke for Coders!  <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card"/>
 
