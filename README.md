@@ -1,82 +1,30 @@
-# <div align="center">Hi there!, I'm Kenneth<br>[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-ornieta) [![](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Kenneth-Ornieta)</div>
+<h1 align="center">Hi 👋, I'm Kenneth Ornieta</h1>
+<h3 align="center">I'm a passionate junior frontend developer from Manila, Philippines</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
 
-<img height=80 src="https://64.media.tumblr.com/tumblr_mauaez2COG1rfjowdo1_500.gif"><img height=100 src="https://user-images.githubusercontent.com/2184469/40949613-7542733a-6834-11e8-895b-ce1cc3af9dbb.gif"></img><img height="120" src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif"><img height=100 src="http://pa1.narvii.com/6535/36cd98315fef41a8a9503509b01d38be72dad783_00.gif"></img>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ken2213" alt="ken2213" /></a> </p>
 
+- 🌱 I’m currently learning **ThreeJS, 3d Modelling, Backend Development, Japanese Language**
 
+- 👨‍💻 All of my projects are available at [https://kennethornieta.tech](https://kennethornieta.tech)
 
-<div align="center">  
-    
-### About
-    
-<div align="center">
-    I'm a <b>Passionate Self-taught Front-end Developer</b> who humbly and will always consider himself a Lifelong Learner.
-</div>
-<br>
+- 💬 Ask me about **ReactJS or all about frontend development! I'll be glad to help you!**
 
-<div align="left">
-    <img height=30 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif"> ....... I'm currently learning <b>Front-End Development (ReactJS)</b></img><br>
-    <img height=30 src="https://monophy.com/media/eGxQwn7FRfqBejBW9L/monophy.gif"> ..... I love cats</img><br>
-    <img height=30 src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"> ........ Constantly pushing myself to code as much as possible</img><br>
-    <img height=40 src="https://i.pinimg.com/originals/ae/70/2a/ae702a9a236d1baf8c46e1fa3710df7a.gif"> ..... College Dropout</img><br>
-    <img height=30 src="https://media0.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif?cid=6c09b9527ccea3835945e7308c961fe66ea69cd8e7fc845e&rid=giphy.gif&ct=s"> ........ Eager to learn something new and improve everyday</img><br>
-    <img height=40 src="https://thumbs.gfycat.com/YellowReliableLabradorretriever-max-1mb.gif"> ..... Coffee Addict</img><br>
-    <img height=30 src="https://c.tenor.com/rXxQXRXB0pkAAAAM/elmo-fire.gif"> .... I like memes</img>
-    <br>
-    <br>
-</div>
+- 📫 How to reach me **ornietakenneth@gmail.com**
 
+- ⚡ Fun fact **i'm a lifelong learner person**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kenneth-ornieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenneth-ornieta" height="30" width="40" /></a>
+</p>
 
-<br>
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-### Programming Languages
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    
-<br>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ken2213&show_icons=true&locale=en&layout=compact" alt="ken2213" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&locale=en" alt="ken2213" /></p>
 
-### Tools
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-          
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
-<br>
-<br>
-          
-    
-### Learning Resources
-<img height=70 src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png"/><img height=90 src="https://d33wubrfki0l68.cloudfront.net/b92ab3b21cc2504828d87929ebe023811b50021b/bb1ef/img/misuse-3.png"/><br>
-<img height=70 src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg"/>
-
-<img height=40 src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"/><br>    
-
-<img height=40 src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<img height=40 src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/>
-<img height=30 src="https://aleen42.github.io/badges/src/stackoverflow.svg"/><br>
-
-<img height=40 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-<br>
-<br>    
-
-### <img height=20 src="https://pa1.narvii.com/6468/5add01d8222fe8c252fc234852599081b78f5e03_hq.gif">  </img>Mini-Projects  <img height=20 src="https://pa1.narvii.com/6468/5add01d8222fe8c252fc234852599081b78f5e03_hq.gif">  </img>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=aesthetic-calculator)](https://github.com/ken2213/aesthetic-calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken2213&theme=react&repo=etch-a-sketch)](https://github.com/ken2213/etch-a-sketch)    
-    
-### GitHub Status
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ken2213&theme=react"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&theme=react"/>
-
-
-### <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>  Some Joke for Coders!  <img height=25 src="https://media4.giphy.com/media/hVlZnRT6QW1DeYj6We/giphy.gif"></img>
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card"/>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&" alt="ken2213" /></p>
