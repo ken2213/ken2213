@@ -3,17 +3,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ken2213" alt="ken2213" /></a> </p>
 
-- 🌱 I’m currently learning **ThreeJS, 3d Modelling, Backend Development, Japanese Language**
+- <img width=30 src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif"> ..... I’m currently learning **ThreeJS, 3d Modelling, Backend Development, Japanese Language**
 
-- 👨‍💻 All of my projects are available at [https://kennethornieta.tech](https://kennethornieta.tech)
+- <img width=30 src="https://media.tenor.com/9IsrqCRzmNwAAAAi/tyrannosaurus-dinosaur.gif" > ..... All of my live projects are available at [https://kennethornieta.tech](https://kennethornieta.tech)
 
-- 💬 Ask me about **ReactJS or all about frontend development! I'll be glad to help you!**
+- <img width=30 src="https://media.tenor.com/b-6uXPvnQREAAAAi/item-box-mario-kart.gif" > ..... Ask me about **ReactJS or all about frontend development! I'll be glad to help you!**
 
-- 📫 How to reach me **ornietakenneth@gmail.com**
+- <img width=30 src="https://media.tenor.com/X7NYqp5lxZoAAAAi/love-letter-heart.gif" > ..... How to reach me **ornietakenneth@gmail.com**
 
-- ⚡ Fun fact **i'm a lifelong learner person**
+- <img width=30 src="https://c.tenor.com/TLhWkKdr770AAAAd/tenor.gif" > ..... **i'm a lifelong learner person**
+
+- <img width=30 src="https://piskel-imgstore-b.appspot.com/img/0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif" > ..... I like organic tea now... (former coffee addict)
+
+- <img width=30 src="https://i.pinimg.com/originals/ae/70/2a/ae702a9a236d1baf8c46e1fa3710df7a.gif" > ..... College Dropout
+
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +37,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ken2213&show_icons=true&locale=en&layout=compact" alt="ken2213" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&locale=en" alt="ken2213" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&" alt="ken2213" /></p>
