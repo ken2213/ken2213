@@ -99,10 +99,14 @@
 <br>
 
 <h1 align="center">GITHUB STATS</h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ken2213&show_icons=true&locale=en&layout=compact" alt="ken2213" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&locale=en" alt="ken2213" /></p>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ken2213&theme=react"/>
+</div>
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=ken2213&show_icons=true&theme=react"/> &nbsp; &nbsp;
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&theme=react"/>
+</div>
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken2213&" alt="ken2213" /></p>
