@@ -41,13 +41,14 @@
        title="ReactJS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />  &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Tailwind CSS Logo" 
        title="Tailwind CSS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> &nbsp; &nbsp; &nbsp; 
-  <img width=70 alt="Three JS Logo" 
-       title="Three JS Logo" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" />  &nbsp; &nbsp; &nbsp; 
+
 </div>
 
 <br>
 
 <div align="center">
+  <img width=70 alt="Three JS Logo" 
+       title="Three JS Logo" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" />  &nbsp; &nbsp; &nbsp; 
   <img width=70 alt="Node Package Manager"
        title="Node Package Manager Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Mongo DB Logo" 
@@ -56,23 +57,35 @@
        title="Graph QL Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Firebase Logo" 
        title="Firebase Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-  <img width=70 alt="Node JS Logo" 
-       title="Node JS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
-  <img width=70 alt="Nodemon Logo" 
-       title="Nodemon Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" /> &nbsp; &nbsp; &nbsp;
-  <img width=70 alt="Express JS Logo" 
-       title="Express JS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
 </div>
 
 <br>
 
 <div align="center">
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width=70 alt="Express JS Logo" 
+       title="Express JS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Webpack Logo" 
        title="Express JS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Framer Motion Logo" 
        title="Framer Motion Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Git Logo" 
        title="Git Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+  <img width=70 alt="Node JS Logo" 
+       title="Node JS Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp; &nbsp; &nbsp;
+  
+</div>
+
+<br>
+
+<div align="center">
+  <img width=70 alt="Nodemon Logo" 
+       title="Nodemon Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Redux Logo" 
        title="Redux Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /> &nbsp; &nbsp; &nbsp;
   <img width=70 alt="Vite Logo" 
