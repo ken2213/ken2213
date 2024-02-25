@@ -18,7 +18,7 @@
 
 - <img width=30 src="https://media.tenor.com/X7NYqp5lxZoAAAAi/love-letter-heart.gif" > ..... How to reach me **ornietakenneth@gmail.com**
 
-- <img width=30 src="https://c.tenor.com/TLhWkKdr770AAAAd/tenor.gif" > ..... **i'm a lifelong learner person**
+- <img width=30 src="https://c.tenor.com/TLhWkKdr770AAAAd/tenor.gif" > ..... **I'm a Lifelong Learner**
 
 - <img width=30 src="https://piskel-imgstore-b.appspot.com/img/0e28c1e1-2b46-11eb-98c3-8bd6c09c09f8.gif" > ..... I like organic tea now... (former coffee addict)
 
