@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Kenneth Ornieta!</h1>
 <h3 align="center">I'm a passionate junior frontend developer from Manila, Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
 <br>
 
 <h1 align="center">ABOUT</h1>
