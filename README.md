@@ -1,8 +1,9 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
+
 <h1 align="center">Hi, I'm Kenneth Ornieta!</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ken2213&label=Profile%20views&color=0e75b6&style=flat" alt="ken2213" /> </p>
 <h3 align="center">I'm a passionate junior frontend developer from Manila, Philippines</h3>
 <br>
 
